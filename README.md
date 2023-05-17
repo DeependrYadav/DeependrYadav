@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS , JAVASCRIPT , JAVA , SQL, SPRING**
 
-- 📫 How to reach me **deependrayadav@gamil.com**
+- 📫 How to reach me **deependrayadav6306@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
