@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio_Link](https://deependryadav.github.io/)
 
-- 💬 Ask me about **HTML, CSS , JAVASCRIPT , JAVA , SQL, SPRING**
+- 💬 Ask me about **HTML, CSS , JAVASCRIPT , JAVA , SQL, Spring-Boot , Hibernate**
 
 - 📫 How to reach me **deependrayadav6306@gamil.com**
 
